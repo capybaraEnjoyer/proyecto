@@ -47,6 +47,14 @@
     "descr": "Ejemplo descripcion 6",
     "boton": "Algo"
 }
-]
+],
+ 
+"Usuarios":[
+  {
+    "email": "prueba@algo.a",
+    "contrasenya": "12345678",
+    "id" : "Cambiar pronto"
+  }
+  ]
 }
 
