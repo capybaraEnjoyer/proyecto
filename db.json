@@ -1,40 +1,40 @@
-{ "data" = [
+{ "data" : [
  {
-    "img": '../img/tienda1.jpg',
-    "titulo": 'Titulo de carta 1',
-    "descr": 'Ejemplo descripcion 1',
-    "boton": 'Algo'
+    "img": "../img/tienda1.jpg",
+    "titulo": "Titulo de carta 1",
+    "descr": "Ejemplo descripcion 1",
+    "boton": "Algo"
 },
 {
-    "img": '../img/tienda2.jpg',
-    "titulo": 'Titulo de carta 2',
-    "descr": 'Ejemplo descripcion 2',
-    "boton": 'Algo'
+    "img": "../img/tienda2.jpg",
+    "titulo": "Titulo de carta 2",
+    "descr": "Ejemplo descripcion 2",
+    "boton": "Algo"
 },
 {
-    "img": '../img/tienda3.jpg',
-    "titulo": 'Titulo de carta 3',
-    "descr": 'Ejemplo descripcion 3',
-    "boton": 'Algo'
+    "img": "../img/tienda3.jpg",
+    "titulo": "Titulo de carta 3",
+    "descr": "Ejemplo descripcion 3",
+    "boton": "Algo"
 },
 {
-    "img": '../img/tienda4.jpg',
-    "titulo": 'Titulo de carta 4',
-    "descr": 'Ejemplo descripcion 4',
-    "boton": 'Algo'
+    "img": "../img/tienda4.jpg",
+    "titulo": "Titulo de carta 4",
+    "descr": "Ejemplo descripcion 4",
+    "boton": "Algo"
 },
 {
-    "img": '../img/tienda5.jpg',
-    "titulo": 'Titulo de carta 5',
-    "descr": 'Ejemplo descripcion 5',
-    "boton": 'Algo'
+    "img": "../img/tienda5.jpg",
+    "titulo": "Titulo de carta 5",
+    "descr": "Ejemplo descripcion 5",
+    "boton": "Algo"
 },
 {
-    "img": '../img/tienda6.jpg',
-    "titulo": 'Titulo de carta 6',
-    "descr": 'Ejemplo descripcion 6',
-    "boton": 'Algo'
-}
+    "img": "../img/tienda6.jpg",
+    "titulo": "Titulo de carta 6",
+    "descr": "Ejemplo descripcion 6",
+    "boton": "Algo"
+},
 ]
 }
 
