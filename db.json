@@ -1,5 +1,4 @@
-{
-  const productos = [{
+const productos = [{
     img: '../img/tienda1.jpg',
     titulo: 'Titulo de carta 1',
     descr: 'Ejemplo descripcion 1',
@@ -29,6 +28,6 @@
     titulo: 'Titulo de carta 6',
     descr: 'Ejemplo descripcion 6',
     boton: 'Algo'
-},
-]
 }
+]
+
