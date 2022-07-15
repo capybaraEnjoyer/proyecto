@@ -61,8 +61,18 @@
   ],
  "Articulos":[
   {
-    "imagen": "url",
+    "imagen": "./img/carousel1.jpg",
     "titulo": "spelunky",
+    "descripcion": "muy dificil"
+  },
+  {
+    "imagen": "./img/carousel2.jpg",
+    "titulo": "Mario Kaizo",
+    "descripcion": "muy dificil"
+  },
+  {
+    "imagen": "./img/carousel3.jpg",
+    "titulo": "Pokemon nuzlocke",
     "descripcion": "muy dificil"
   }
   ]
