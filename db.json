@@ -64,19 +64,19 @@
     "imagen": "./img/carousel1.jpg",
     "titulo": "spelunky",
     "descripcion": "muy dificil",
-    "id" : "1"
+    "id" : 1
   },
   {
     "imagen": "./img/carousel2.jpg",
     "titulo": "Mario Kaizo",
     "descripcion": "muy dificil",
-    "id" : "2"
+    "id" : 2
   },
   {
     "imagen": "./img/carousel3.jpg",
     "titulo": "Pokemon nuzlocke",
     "descripcion": "muy dificil",
-    "id" : "3"
+    "id" : 3
   }
   ]
 }
