@@ -59,7 +59,7 @@
     "id" : "prueba123"
   }
   ],
- "Articulos":[
+ "SlideArticulos":[
   {
     "imagen": "./img/carousel1.jpg",
     "titulo": "spelunky",
@@ -77,6 +77,24 @@
     "titulo": "Pokemon nuzlocke",
     "descripcion": "muy dificil",
     "id" : 3
+  }
+  ],
+ 
+ "Articulos":[
+  {
+    "imagen": "./img/articulo1.jpg",
+    "titulo": "lore",
+    "descripcion": "ipsum"
+  },
+  {
+    "imagen": "./img/articulo2.jpg",
+    "titulo": "lore",
+    "descripcion": "ipsum"
+  },
+  {
+    "imagen": "./img/articulo3.jpg",
+    "titulo": "lore",
+    "descripcion": "ipsum"
   }
   ]
 }
